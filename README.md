@@ -1,2 +1,2 @@
-Basic recipe website
-main index page with links to a few recipes
+Basic recipe website with a 
+main index page with links to three different recipe pages with full Desriptions, Image of Finished Recipe, Ingredients lists, and Step by Step Instructions. As well as a link to take you back to the main index.html
